@@ -1,6 +1,6 @@
 ## Megtekinthető : https://sykolos.github.io/html-css-sample/
 
-# 🥗 Landing Page – HTML & CSS Project Udemy kurzus alapján
+## 🥗 Landing Page – HTML & CSS Project Udemy kurzus alapján
 
 Ez a projekt egy reszponzív, modern landing oldal, amely a **[Udemy "Build Responsive Real-World Websites with HTML and CSS"](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)** kurzus alapján készült. 
 A cél egy valós projekthez hasonló weboldal elkészítése volt – mobilra optimalizáltan, tiszta kóddal, szép dizájnnal.
