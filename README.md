@@ -16,12 +16,13 @@ A cél egy valós projekthez hasonló weboldal elkészítése volt – mobilra o
 - Jelenleg az effektek még hiányoznak
 
 ## 📂 Fájlstruktúra
-├── index.html
-├── css/
-│   └── style.css
-├── img/
-│   └── ...
-└── README.md
+<pre> 
+ ├── index.html 
+ ├── css/ 
+ │ └── style.css 
+ ├── img/ 
+ │ └── ... 
+ └── README.md </pre>
 
 ## 💡 Megjegyzés
  - Ez a projekt is csak tanulási célból került fel, alapnak jól szolgálhat más projekthez.
